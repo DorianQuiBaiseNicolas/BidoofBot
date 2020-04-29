@@ -1,0 +1,23 @@
+{
+  "name": "BidoofBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DorianQuiBaiseNicolas/BidoofBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DorianQuiBaiseNicolas/BidoofBot/issues"
+  },
+  "homepage": "https://github.com/DorianQuiBaiseNicolas/BidoofBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
